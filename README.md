@@ -5,13 +5,13 @@
 <h1 align="center">Chatbot-IO</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/BenoitPrmt/chatbot-io?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Raxuis/chatbot-io?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/BenoitPrmt/chatbot-io?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Raxuis/chatbot-io?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/BenoitPrmt/chatbot-io?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Raxuis/chatbot-io?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/BenoitPrmt/chatbot-io?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Raxuis/chatbot-io?color=56BEB8">
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project with GitHub
-$ git clone https://github.com/BenoitPrmt/chatbot-io.git
+$ git clone https://github.com/Raxuis/chatbot-io.git
 
 # Access frontend folder
 $ cd chatbot-io
